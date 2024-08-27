@@ -41,7 +41,7 @@ initData();
 
 function initData() {
   showSpinner();
-  fetch('https://raw.githubusercontent.com/tmsfault/SP1900-TMS-Fault-Diagnostic-Dashboard/main/everything.csv')
+  fetch('https://raw.githubusercontent.com/tmsfault/SP1900-TMS-Fault-Diagnostic-Dashboard/main/fault_data.csv')
     .then(response => response.text())
     .then(csvData => {
       const csvRows = csvData.split('\n');
