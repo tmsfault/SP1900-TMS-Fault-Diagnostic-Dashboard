@@ -35,6 +35,7 @@ let circuitDiagrams = {
   'A/C1': 'https://tmsfault.github.io/SP1900-TMS-Fault-Diagnostic-Dashboard/circuits/AC.pdf',
   'A/C2': 'https://tmsfault.github.io/SP1900-TMS-Fault-Diagnostic-Dashboard/circuits/AC.pdf',
   'ETC': 'https://tmsfault.github.io/SP1900-TMS-Fault-Diagnostic-Dashboard/circuits/ETC.pdf',
+  'PID': 'https://tmsfault.github.io/SP1900-TMS-Fault-Diagnostic-Dashboard/circuits/PID.pdf',
 };
 
 initData();
