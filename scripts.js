@@ -36,6 +36,10 @@ let circuitDiagrams = {
   'A/C2': 'https://tmsfault.github.io/SP1900-TMS-Fault-Diagnostic-Dashboard/circuits/AC.pdf',
   'ETC': 'https://tmsfault.github.io/SP1900-TMS-Fault-Diagnostic-Dashboard/circuits/ETC.pdf',
   'PID': 'https://tmsfault.github.io/SP1900-TMS-Fault-Diagnostic-Dashboard/circuits/PID.pdf',
+  'COM': 'https://tmsfault.github.io/SP1900-TMS-Fault-Diagnostic-Dashboard/circuits/COM.pdf',
+  'DRM': 'https://tmsfault.github.io/SP1900-TMS-Fault-Diagnostic-Dashboard/circuits/DRM.pdf',
+  'DPID': 'https://tmsfault.github.io/SP1900-TMS-Fault-Diagnostic-Dashboard/circuits/DPID.pdf',
+  'DCCTV': 'https://tmsfault.github.io/SP1900-TMS-Fault-Diagnostic-Dashboard/circuits/DCCTV.pdf',
 };
 
 initData();
